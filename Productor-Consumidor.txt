@@ -1,0 +1,81 @@
+Productor 1 Producido: 40
+	> Productor 1 Insertado en pos 0
+	< Consumidor 2 Leido de pos 0: 40
+Consumidor 2 Consumido: 40
+Productor 2 Producido: 21
+	> Productor 2 Insertado en pos 1
+	< Consumidor 1 Leido de pos 1: 21
+Consumidor 1 Consumido: 21
+Productor 2 Producido: 28
+	> Productor 2 Insertado en pos 2
+	< Consumidor 2 Leido de pos 2: 28
+Consumidor 2 Consumido: 28
+Productor 1 Producido: 88
+	> Productor 1 Insertado en pos 3
+Productor 1 Producido: 28
+	> Productor 1 Insertado en pos 4
+	< Consumidor 1 Leido de pos 3: 88
+Consumidor 1 Consumido: 88
+	< Consumidor 2 Leido de pos 4: 28
+Consumidor 2 Consumido: 28
+Productor 2 Producido: 55
+	> Productor 2 Insertado en pos 0
+	< Consumidor 1 Leido de pos 0: 55
+Consumidor 1 Consumido: 55
+Productor 2 Producido: 61
+	> Productor 2 Insertado en pos 1
+	< Consumidor 2 Leido de pos 1: 61
+Consumidor 2 Consumido: 61
+Productor 2 Producido: 70
+	> Productor 2 Insertado en pos 2
+Productor 1 Producido: 0
+	> Productor 1 Insertado en pos 3
+	< Consumidor 2 Leido de pos 2: 70
+Consumidor 2 Consumido: 70
+Productor 1 Producido: 44
+	> Productor 1 Insertado en pos 4
+	< Consumidor 1 Leido de pos 3: 0
+Consumidor 1 Consumido: 0
+	< Consumidor 1 Leido de pos 4: 44
+Consumidor 1 Consumido: 44
+Productor 1 Producido: 18
+	> Productor 1 Insertado en pos 0
+	< Consumidor 1 Leido de pos 0: 18
+Consumidor 1 Consumido: 18
+Productor 2 Producido: 23
+	> Productor 2 Insertado en pos 1
+	< Consumidor 2 Leido de pos 1: 23
+Consumidor 2 Consumido: 23
+Productor 1 Producido: 69
+	> Productor 1 Insertado en pos 2
+	< Consumidor 2 Leido de pos 2: 69
+Consumidor 2 Consumido: 69
+Productor 2 Producido: 4
+	> Productor 2 Insertado en pos 3
+	< Consumidor 1 Leido de pos 3: 4
+Consumidor 1 Consumido: 4
+Productor 1 Producido: 33
+	> Productor 1 Insertado en pos 4
+	< Consumidor 2 Leido de pos 4: 33
+Consumidor 2 Consumido: 33
+Productor 2 Producido: 73
+	> Productor 2 Insertado en pos 0
+	< Consumidor 1 Leido de pos 0: 73
+Consumidor 1 Consumido: 73
+Productor 1 Producido: 21
+	> Productor 1 Insertado en pos 1
+	< Consumidor 1 Leido de pos 1: 21
+Consumidor 1 Consumido: 21
+Productor 2 Producido: 43
+	> Productor 2 Insertado en pos 2
+	< Consumidor 2 Leido de pos 2: 43
+Consumidor 2 Consumido: 43
+Productor 2 Producido: 43
+	> Productor 2 Insertado en pos 3
+	< Consumidor 1 Leido de pos 3: 43
+Consumidor 1 Consumido: 43
+Productor 1 Producido: 87
+	> Productor 1 Insertado en pos 4
+	< Consumidor 2 Leido de pos 4: 87
+Consumidor 2 Consumido: 87
+ Fin del programa 
